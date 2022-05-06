@@ -1,1 +1,2 @@
-# Lacunna-competition-
+# Lacunna-competition
+first place solution team corn farmers
